@@ -1,7 +1,7 @@
 # Paint
 Info on how to run and history of project: https://www.seas.upenn.edu/~cis120/21fa/hw/hw05/.
 
-I edited: gctx.ml, gctx.mli, widget.ml, widget.mli, paint.ml.
+I edited: gctx.ml, gctx.mli, widget.ml, widget.mli, paint.ml. There are many background files given to us by instructor to help run the program. 
 
 To run: Run paint.ml.
 
