@@ -1,10 +1,16 @@
-# Paint
-Info on how to run and history of project: https://www.seas.upenn.edu/~cis120/21fa/hw/hw05/.
+### CIS 120 Homework 5: GUI Programming & Paint
 
-I edited: gctx.ml, gctx.mli, widget.ml, widget.mli, paint.ml. There are many background files given to us by instructor to help run the program. 
+This homework comes with *detailed* instructions. Before doing anything
+else, read them thoroughly.
 
-To run: Run paint.ml.
+- [Homework Description](http://www.cis.upenn.edu/~cis120/current/hw/hw05)
 
-Project for CIS120 @ Upenn Engineering: Designed a Microsoft Paint imitation application for my that received a perfect score. Created as Object Oriented Design in OCaml. Used a GUI to interface with the user where the user was able to draw, erase, color, select width of lines, choose shape, undo, and save for later use.
+Once you are finished, use the "Zip" menu item to create a file called
+"hw05-submit(<time>).zip" and upload it here:
 
-https://codio.com/home/projects/new?importType=git&activeTab=3&name=your_codio_project_name&importGitUrl=git@github.com:your_github_name/your_repo_name&stackVersion=stack_version_id
+- [Homework Submission Site](https://www.gradescope.com/courses/223042)
+
+
+Codio documentation can be found here:
+
+- [CIS 120 Codio Documentation](http://www.cis.upenn.edu/~cis120/current/codio.shtml)
